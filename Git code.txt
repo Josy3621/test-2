@@ -1,0 +1,15 @@
+Josy3621
+Hjkl3621
+1) touch                                  #to add file in the folder
+2) git init                                #to initialaze as git reposetory and it is invisible
+3) git config --global user.name 'name'   #to add email and name
+4) git add .                     #name of the file or just the . to get all
+5) git status                     # to see what we add on the stage   
+6) git rm --cached name of file
+7) git add *.html                 #to add all html in the folder
+8) git commit then press i then press esc and type :wq or - git commit -m 'give name to the change'
+9) git clone link #to download or clone the file in github.com
+10) open .        #to open the folder cloned
+11)git commit -a -m "massage we want"
+
+ 
